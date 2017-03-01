@@ -1,5 +1,5 @@
 // Paste this code in DevTools on GitHub profile page,
-// like https://github.com/bahmutov
+// like https://github.com/bahmutov//devops demo
 // Or store it as a Code Snippet to play many times
 // - https://github.com/bahmutov/code-snippets
 // - https://glebbahmutov.com/blog/chrome-dev-tools-code-snippets/
